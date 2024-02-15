@@ -13,9 +13,11 @@
 >   Markdown editor
 <hr>
 
-<span style="text-align: center;">
+
+<div style="text-align: center;">
 
 *Střední průmyslová škola elektrotechniky a informatiky*
+
 <br>
 <img src="https://www.spsemoh.cz/logos/spsei-vektor-barevne.svg" style="width: 150px; height: auto;">
-</span>
+</div>
