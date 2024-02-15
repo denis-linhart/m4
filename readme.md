@@ -16,5 +16,5 @@
 <div style="text-align: center;">
 
 *Střední průmyslová škola elektrotechniky a informatiky*
-<img src="https://www.spsemoh.cz/logos/spsei-vektor-barevne.svg">
+<img src="https://www.spsemoh.cz/logos/spsei-vektor-barevne.svg" style="width: 150px; height: auto;">
 </div>
