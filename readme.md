@@ -8,13 +8,13 @@
 **GitHub:** <https://github.com/denis-linhart>
 
 ### Použité programy
-> VSCode
-> Git
-> Markdown editor
+>   VSCode
+>   Git
+>   Markdown editor
 <hr>
 
-<html
-p
+<div style="text-align: center;">
+
 *Střední průmyslová škola elektrotechniky a informatiky*
-</p>
->
+<img src="https://www.spsemoh.cz/logos/spsei-vektor-barevne.svg">
+</div>
