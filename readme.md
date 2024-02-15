@@ -8,8 +8,8 @@
 **GitHub:** <https://github.com/denis-linhart>
 
 ### Použité programy
->   VSCode
->   Git
+>   VSCode  
+>   Git  
 >   Markdown editor
 <hr>
 
