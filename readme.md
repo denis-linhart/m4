@@ -8,13 +8,13 @@
 **GitHub:** <https://github.com/denis-linhart>
 
 ### Použité programy
->   VSCode
->   Git
+>   VSCode  
+>   Git  
 >   Markdown editor
 <hr>
 
 
-<div style="text-align: center;">
+<div align="center">
 
 *Střední průmyslová škola elektrotechniky a informatiky*
 
